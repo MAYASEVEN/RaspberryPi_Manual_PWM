@@ -24,4 +24,3 @@ if __name__ == "__main__":
 			b = (1 - (a * hz)) / hz
 			print a, b
 			pwm(a,b)
-</pre></body></html>
